@@ -1,0 +1,7 @@
+atom-html-preview
+color-picker
+markdown-toc
+pigments
+run-in-atom
+script
+script-runner
